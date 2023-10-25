@@ -2,12 +2,12 @@
     "users": [
       {
         "id": 1,
-        "name": "Usuario1",
-        "email": "usuario1@example.com",
-        "password": "hashedPassword1",
+        "name": "Angie",
+        "email": "angie@gmail.com",
+        "password": "1234",
         "profile": {
           "id": 1,
-          "bio": "Soy Usuario1",
+          "bio": "Soy Angie",
           "avatar": "avatar1.jpg"
         },
         "followers": [2, 3],
@@ -15,12 +15,12 @@
       },
       {
         "id": 2,
-        "name": "Usuario2",
-        "email": "usuario2@example.com",
-        "password": "hashedPassword2",
+        "name": "Oscar",
+        "email": "oscar@gmail.com",
+        "password": "1234",
         "profile": {
           "id": 2,
-          "bio": "Soy Usuario2",
+          "bio": "Soy Oscar",
           "avatar": "avatar2.jpg"
         },
         "followers": [1, 3],
@@ -28,12 +28,12 @@
       },
       {
         "id": 3,
-        "name": "Usuario3",
-        "email": "usuario3@example.com",
-        "password": "hashedPassword3",
+        "name": "cristian",
+        "email": "cristian@gmail.com",
+        "password": "1234",
         "profile": {
           "id": 3,
-          "bio": "Soy Usuario3",
+          "bio": "Soy Cristian",
           "avatar": "avatar3.jpg"
         },
         "followers": [1, 2],
@@ -41,12 +41,12 @@
       },
       {
         "id": 4,
-        "name": "Usuario4",
-        "email": "usuario4@example.com",
-        "password": "hashedPassword4",
+        "name": "Kevin",
+        "email": "kevin@gmail.com",
+        "password": "1234",
         "profile": {
           "id": 4,
-          "bio": "Soy Usuario4",
+          "bio": "Soy Kevin",
           "avatar": "avatar4.jpg"
         },
         "followers": [1, 3],
@@ -54,12 +54,12 @@
       },
       {
         "id": 5,
-        "name": "Usuario5",
-        "email": "usuario5@example.com",
-        "password": "hashedPassword5",
+        "name": "Luis",
+        "email": "luis@gmail.com",
+        "password": "1234",
         "profile": {
           "id": 5,
-          "bio": "Soy Usuario5",
+          "bio": "Soy Luis",
           "avatar": "avatar5.jpg"
         },
         "followers": [1, 2, 3],
@@ -69,27 +69,27 @@
     "profiles": [
       {
         "id": 1,
-        "bio": "Soy Usuario1",
+        "bio": "Soy Angie",
         "avatar": "avatar1.jpg"
       },
       {
         "id": 2,
-        "bio": "Soy Usuario2",
+        "bio": "Soy Oscar",
         "avatar": "avatar2.jpg"
       },
       {
         "id": 3,
-        "bio": "Soy Usuario3",
+        "bio": "Soy Cristian",
         "avatar": "avatar3.jpg"
       },
       {
         "id": 4,
-        "bio": "Soy Usuario4",
+        "bio": "Soy Kevin",
         "avatar": "avatar4.jpg"
       },
       {
         "id": 5,
-        "bio": "Soy Usuario5",
+        "bio": "Soy Luis",
         "avatar": "avatar5.jpg"
       }
     ],
