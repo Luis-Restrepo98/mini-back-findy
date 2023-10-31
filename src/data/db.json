@@ -110,19 +110,24 @@
         "id": 2,
         "userId": 2,
         "content": "Esta es una publicación del Usuario2",
-        "comments": []
+        "comments": [],
+        "likes": []
       },
       {
         "id": 3,
         "userId": 3,
         "content": "Esta es una publicación del Usuario3",
-        "comments": []
+        "comments": [],
+        "likes": []
+
       },
       {
         "id": 4,
         "userId": 4,
         "content": "Esta es una publicación del Usuario4",
-        "comments": []
+        "comments": [],
+        "likes": []
+
       },
       {
         "id": 5,
@@ -134,7 +139,9 @@
             "userId": 3,
             "content": "¡Genial!"
           }
-        ]
+        ],
+        "likes": []
+
       }
     ]
   }
