@@ -66,7 +66,12 @@
       {
         "id": 1,
         "userId": 1,
-        "content": "Esta es una publicación del Usuario1",
+        "content": [
+          {
+            "photo": "https://i.postimg.cc/1X3xs0Kz/angie.jpg",
+            "text": "¡Je suis vraiment heureux de commencer cette expérience !"
+          }
+        ],
         "comments": [
           {
             "id": 1,
@@ -79,14 +84,24 @@
       {
         "id": 2,
         "userId": 2,
-        "content": "Esta es una publicación del Usuario2",
+        "content":[
+          {
+            "photo": "https://i.postimg.cc/tgFG54T9/oscar.jpg",
+            "text": "¡!I am really happy to start this experience!"
+          }
+        ],
         "comments": [],
         "likes": []
       },
       {
         "id": 3,
         "userId": 3,
-        "content": "Esta es una publicación del Usuario3",
+        "content": [
+          {
+            "photo": "https://i.postimg.cc/MTDkC3V4/cristian.jpg",
+            "text": "¡Je suis vraiment heureux de commencer cette expérience !"
+          }
+        ],
         "comments": [],
         "likes": []
 
@@ -94,7 +109,12 @@
       {
         "id": 4,
         "userId": 4,
-        "content": "Esta es una publicación del Usuario4",
+        "content":[
+          {
+            "photo": "https://i.postimg.cc/85DQngJM/kevin.jpg",
+            "text": "¡!I am really happy to start this experience!"
+          }
+        ],
         "comments": [],
         "likes": []
 
@@ -102,7 +122,12 @@
       {
         "id": 5,
         "userId": 5,
-        "content": "Esta es una publicación del Usuario5",
+        "content":[
+          {
+            "photo": "https://i.postimg.cc/x8xwCks3/luis.jpg",
+            "text": ""
+          }
+        ],
         "comments": [
           {
             "id": 2,
