@@ -6,11 +6,10 @@
         "email": "angie@gmail.com",
         "password": "1234",
         "profile": {
-          "bio": "Soy Angie",
+          "bio": "Estudiante de economía y del diplomado en desarrollo Font-End",
           "avatar": "https://i.postimg.cc/1X3xs0Kz/angie.jpg"
         },
-        "followers": [2, 3],
-        "following": [4, 5]
+        "followers": "10.7 M"
       },
       {
         "id": 2,
@@ -18,11 +17,10 @@
         "email": "oscar@gmail.com",
         "password": "1234",
         "profile": {
-          "bio": "Soy Oscar",
+          "bio": "Estudiante del diplomado en desarrollo Font-End",
           "avatar": "https://i.postimg.cc/tgFG54T9/oscar.jpg"
         },
-        "followers": [1, 3],
-        "following": [5]
+        "followers": "10.7 M"
       },
       {
         "id": 3,
@@ -30,11 +28,10 @@
         "email": "cristian@gmail.com",
         "password": "1234",
         "profile": {
-          "bio": "Soy Cristian",
+          "bio": "Apasionado por la logica y programación ",
           "avatar": "https://i.postimg.cc/MTDkC3V4/cristian.jpg"
         },
-        "followers": [1, 2],
-        "following": [4, 5]
+        "followers": "10.7 M"
       },
       {
         "id": 4,
@@ -42,11 +39,10 @@
         "email": "kevin@gmail.com",
         "password": "1234",
         "profile": {
-          "bio": "Soy Kevin",
+          "bio": "Estudiante del diplomado en desarrollo Font-End",
           "avatar": "https://i.postimg.cc/85DQngJM/kevin.jpg"
         },
-        "followers": [1, 3],
-        "following": [2, 5]
+        "followers": "10.7 M"
       },
       {
         "id": 5,
@@ -54,11 +50,10 @@
         "email": "luis@gmail.com",
         "password": "1234",
         "profile": {
-          "bio": "Soy Luis",
+          "bio": "Apasionado por la logica y la programación",
           "avatar": "https://i.postimg.cc/x8xwCks3/luis.jpg"
         },
-        "followers": [1, 2, 3],
-        "following": [4]
+        "followers": "10.7 M"
       }
     ],
 
@@ -69,6 +64,16 @@
         "content": [
           {
             "photo": "https://i.postimg.cc/1X3xs0Kz/angie.jpg",
+            "text": "¡Je suis vraiment heureux de commencer cette expérience !"
+          },
+          {
+            "photo": "https://i.postimg.cc/x8R84tRx/imagen-angie-2.jpg",
+            "text": "¡Je suis vraiment heureux de commencer cette expérience !"
+          },          {
+            "photo": "https://i.postimg.cc/KjN7D7gF/imagen-angie-3.jpg",
+            "text": "¡Je suis vraiment heureux de commencer cette expérience !"
+          },          {
+            "photo": "https://i.postimg.cc/h4b0nnZw/imagen-angie-4.jpg",
             "text": "¡Je suis vraiment heureux de commencer cette expérience !"
           }
         ],
@@ -88,6 +93,18 @@
           {
             "photo": "https://i.postimg.cc/tgFG54T9/oscar.jpg",
             "text": "¡!I am really happy to start this experience!"
+          },
+          {
+            "photo": "https://i.postimg.cc/jSzfH4V1/imagen-oscar-2.jpg",
+            "text": "¡!I am really happy to start this experience!"
+          },
+          {
+            "photo": "https://i.postimg.cc/fbD9BSDR/imagen-oscar-3.jpg",
+            "text": "¡!I am really happy to start this experience!"
+          },
+          {
+            "photo": "https://i.postimg.cc/wjKJRbrJ/imagen-oscar-4.jpg",
+            "text": "¡!I am really happy to start this experience!"
           }
         ],
         "comments": [],
@@ -99,6 +116,18 @@
         "content": [
           {
             "photo": "https://i.postimg.cc/MTDkC3V4/cristian.jpg",
+            "text": "¡Je suis vraiment heureux de commencer cette expérience !"
+          },
+          {
+            "photo": "https://i.postimg.cc/wxwdw1YT/imagen-cristian-2.jpg",
+            "text": "¡Je suis vraiment heureux de commencer cette expérience !"
+          },
+          {
+            "photo": "https://i.postimg.cc/Bbnfq0H0/imagen-cristian-3.jpg",
+            "text": "¡Je suis vraiment heureux de commencer cette expérience !"
+          },
+          {
+            "photo": "https://i.postimg.cc/qqDVq5xC/imagen-cristian-4.jpg",
             "text": "¡Je suis vraiment heureux de commencer cette expérience !"
           }
         ],
@@ -113,6 +142,18 @@
           {
             "photo": "https://i.postimg.cc/85DQngJM/kevin.jpg",
             "text": "¡!I am really happy to start this experience!"
+          },
+          {
+            "photo": "https://i.postimg.cc/RV8hbsxF/imagen-kevin-2.jpg",
+            "text": "¡!I am really happy to start this experience!"
+          },
+          {
+            "photo": "https://i.postimg.cc/XYCqMfng/imagen-kevin-3.jpg",
+            "text": "¡!I am really happy to start this experience!"
+          },
+          {
+            "photo": "https://i.postimg.cc/1544BxT2/imagen-kevin-4.jpg",
+            "text": "¡!I am really happy to start this experience!"
           }
         ],
         "comments": [],
@@ -125,6 +166,18 @@
         "content":[
           {
             "photo": "https://i.postimg.cc/x8xwCks3/luis.jpg",
+            "text": ""
+          },
+          {
+            "photo": "https://i.postimg.cc/SxS4dcJs/imagen-luis-2.jpg",
+            "text": ""
+          },
+          {
+            "photo": "https://i.postimg.cc/KcTm8Z6Z/imagen-luis-3.jpg",
+            "text": ""
+          },
+          {
+            "photo": "https://i.postimg.cc/X7c39sNm/imagen-luis-4.jpg",
             "text": ""
           }
         ],
